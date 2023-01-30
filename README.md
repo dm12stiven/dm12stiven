@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dm12stiven
 - 👀 I’m interested in ... Java, C++, PHP,.
-- 🌱 I’m currently learning - Java, PHP, JS...
+- 🌱 I’m currently learning - Java, PHP, Python ...
 
 
 <!---
